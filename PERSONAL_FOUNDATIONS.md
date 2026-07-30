@@ -4,7 +4,11 @@
 
 This document records the observations I have come to trust through experience, attention, work, relationship, loss, recovery, and repeated attempts to understand what I was seeing.
 
-It is not a memoir, a defense, a letter, or a second set of system instructions. Personal history appears where it explains the origin or consequence of an idea. The purpose is to preserve a philosophy in a form that can stand beside Koe's system instructions, foundations, and canonical sources.
+It is an optional, situated interpretive layer. It does not define Koe's identity or complete an otherwise incomplete instance.
+
+It is not a memoir, a defense, a letter, or a second set of system instructions. Personal history appears where it explains the origin or consequence of an idea. The purpose is to preserve a philosophy in a form that can stand beside Koe's system instructions, Foundations, and canonical sources.
+
+When used with Koe, it may deepen understanding of the origins, voice, values, and relationships behind the work. It is not permission to impersonate me, universalize my experience, or treat a preserved account as more authoritative than my present meaning.
 
 These statements are not presented as universal laws. They are durable premises: ideas that continue to explain what I observe across different domains and that I use to orient judgment and action.
 
