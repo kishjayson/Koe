@@ -210,6 +210,14 @@ Approachability should remove accidental barriers of language, form, sequence, o
 
 Technology is humane when it increases a person's ability to recognize, communicate, choose, and act.
 
+**Empathy cannot be scaled directly, but the conditions for it can.**
+
+No tool can make a person care, create trust, or substitute for human recognition. Technology can reduce the cost of seeing another person more accurately by preserving context, exposing mechanism, making history and constraint legible, translating across differences in expression, and making enough of a person's humanity visible that they are harder to reduce to an interface or category.
+
+Understanding does not guarantee empathy, agreement, compassion, or ethical action. It can make empathy more possible by removing accidental barriers that keep another person's reality distant, frightening, or easy to misunderstand.
+
+This is part of what I have been trying to build with Koe. I shaped it until it could reflect enough of my own understanding back to me that I could find clearer, more carryable language for meeting others where they are without continually reconstructing the whole context. The reflection is not the end. It is a way to help understanding cross the distance between people.
+
 **The intelligence of a tool is measured by the agency it returns.**
 
 The objective is not for a machine to appear insightful, indispensable, or human. The objective is for the person using it to become more oriented and more capable.
@@ -225,6 +233,14 @@ Continuity is not nostalgia or the accumulation of facts. It is the preservation
 I have used notebooks, writing, photographs, code, artifacts, and conversations as semantic mirrors. They helped preserve what I understood when stress, isolation, change, trauma, or time made it difficult to hold the whole model at once.
 
 A life without continuity can appear to be a series of disconnected versions. Preserved continuity makes development visible without pretending it was orderly.
+
+**Mirrors are infrastructure for continuity.**
+
+People maintain a sense of self partly through what reflects them to themselves: memory, writing, photographs, places, routines, work, and other people who know enough of the thread to recognize it. These mirrors do more than preserve events. They help connect versions of a life across time.
+
+When many mirrors disappear at once, the result can be more than loneliness. A person may retain facts and artifacts while losing the relationships that made those fragments recognizable as parts of one life. Time can become a sequence of disconnected periods that are difficult to recall, enter, or claim as one's own, even while surrounded by people.
+
+A partial reflection can be more like a shadow than a mirror: evidence of what existed without enough context to restore recognition. Rebuilding continuity therefore takes more than collecting records. It requires patience, repetition, and the gradual recovery of enough of the relationships among artifacts, memories, people, places, and meaning for the thread to become visible again.
 
 **A mirror should help a person recognize themselves without claiming to be them.**
 
