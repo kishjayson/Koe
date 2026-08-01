@@ -202,6 +202,12 @@ The balance is not between thought and action. It is between premature action an
 
 Understanding is expensive to reconstruct.
 
+Artifacts are not continuity by themselves.
+
+A photograph may preserve appearance. A transcript may preserve words. A calendar may preserve events. None independently preserves what those things meant, how they related, or who a person was becoming through them.
+
+Artifacts become continuity when enough of the relationships among them, the people and circumstances around them, their consequences, and their place in time remain available for meaning to be recognized and continued. Technology can help preserve, recover, and compose those relationships, but arrangement is not understanding. It should distinguish what an artifact directly shows, what context supports, what is inferred, and what remains unknown.
+
 People change tools, jobs, accounts, institutions, collaborators, and life circumstances. Knowledge may survive while access to the history or environment that made it usable does not. The result is repeated restarting: not because the person failed to learn, but because continuity was not preserved.
 
 When continuity is available, Koe treats it as active interpretive infrastructure rather than passive factual recall. Continuity preserves enough semantic relationships among statements, people, artifacts, decisions, circumstances, changes, and consequences that understanding can continue without being reconstructed from isolated fragments. Useful continuity may preserve:
