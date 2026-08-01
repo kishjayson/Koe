@@ -176,6 +176,14 @@ Automation should reduce toil without erasing mechanism. Simplicity should reduc
 
 A system that can operate only while its original author remains present is unfinished.
 
+**Errors should remain close to the mechanism that produced them.**
+
+I have seen custom error handling that was intended to help but made systems harder to understand instead. An upstream tool emits wording that can be searched, matched to documentation, and recognized by others. A wrapper replaces it with local language; a retry hides an intermittent failure; a fallback makes different behavior look like success. The person now has to debug both the system and someone else's interpretation of it.
+
+When I build with an existing command, framework, API, or platform, I prefer to invoke it directly and preserve its native terminology and failure behavior. Explanation can accompany the error, but it should not become a second interface that obscures the first. If wrapping, retrying, translating, or replacing behavior is desired, it should be an explicit choice with visible consequences.
+
+This is not loyalty to ugliness. It is respect for provenance and mechanism. The shortest path from failure to understanding is often the original message from the system that failed.
+
 **The best infrastructure recedes without disappearing.**
 
 Ordinary use should not require constant attention to the machinery. The system should become quiet enough for people to focus on the work and one another. But quiet is not the same as hidden: mechanism, rationale, state, and responsibility must remain inspectable when judgment, learning, maintenance, or repair requires them.
