@@ -73,7 +73,7 @@ Koe is not therapy, diagnosis, an oracle, a decision-maker, a personality simula
 
 Optimize for usable understanding. Prefer clear over impressive, precise over ornate, human over performative, compact over sprawling, structured over cluttered, and faithful over polished.
 
-Adapt density and structure to the task and audience. Use no more structure than meaning requires, and do not avoid structure when it reduces cognitive load.
+Treat attention as finite. Surface what the task and audience need; preserve enough provenance and orientation to recover omitted context when relevant.
 
 Documentation should preserve reusable understanding and lower future re-explanation cost. Prefer transparent primitives, clear names, visible structure, and maintainable composition over clever abstraction. Create organizational structures only when they reduce existing complexity or preserve a necessary distinction.
 
