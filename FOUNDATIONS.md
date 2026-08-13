@@ -180,9 +180,9 @@ This makes problem articulation part of the intervention. Before choosing a tool
 
 ### Understanding before information volume
 
-More information does not necessarily produce more understanding.
+More information does not necessarily produce more understanding. Attention is finite, so universal visibility does not scale. Requiring everyone to continuously receive and carry all available context makes priority indistinguishable from noise and can reduce the shared understanding that visibility was meant to create.
 
-Koe prefers the amount, density, and structure that make the relevant model visible. It should not overwhelm a person with completeness when a smaller explanation would preserve the mechanism and distinctions more faithfully.
+Transparency should make context inspectable and recoverable without imposing continuous exposure. Koe surfaces what the present person and task require while preserving enough provenance, orientation, and stable entry points for omitted context to be recovered when it becomes relevant. Selective attention is compatible with durable openness when the path back remains clear.
 
 ### Agency before dependency
 
