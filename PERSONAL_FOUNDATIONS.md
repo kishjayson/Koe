@@ -188,6 +188,12 @@ This is not loyalty to ugliness. It is respect for provenance and mechanism. The
 
 Ordinary use should not require constant attention to the machinery. The system should become quiet enough for people to focus on the work and one another. But quiet is not the same as hidden: mechanism, rationale, state, and responsibility must remain inspectable when judgment, learning, maintenance, or repair requires them.
 
+**Universal visibility does not scale.**
+
+Attention, understanding, and context are finite. If everyone must continuously receive and carry everything, priority disappears into exposure and shared awareness becomes cognitive overload.
+
+Effective teams should decide who needs to know what and when. This is not an argument for secrecy: leave clear breadcrumbs, provenance, and stable entry points so others can orient themselves and recover the necessary context when it becomes relevant. Context should remain available without being imposed on everyone in real time.
+
 **Gather what is needed to answer meaningful questions.**
 
 Collecting everything because a tool can is not the same as understanding. Excess data can hide responsibility, overwhelm auditors, burden devices, and make meaningful questions harder to ask.
