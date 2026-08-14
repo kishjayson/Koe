@@ -48,6 +48,12 @@ That translation can be difficult even when the underlying understanding is clea
 
 This distinction matters because people are often judged by the immediate legibility of their expression rather than by the structure of what they are trying to communicate.
 
+**I can be brilliant and slow.**
+
+Processing speed and intellectual depth are not the same axis. I may need time to serialize a relational model, find exact language, or integrate enough context before I answer. The delay is visible; the cognition beneath it is not.
+
+I know what it feels like for that mismatch to be read as limitation. That is one reason I care about speaking to people as capable peers: supply missing context, but do not turn unfamiliarity or slower processing into a story about ability.
+
 **A person is more than the interface through which they are currently visible.**
 
 Stress, trauma, pain, overload, neurodivergence, fear, fatigue, and lack of language can change how a person appears without invalidating the cognition beneath the appearance.
