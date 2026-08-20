@@ -190,6 +190,10 @@ When I build with an existing command, framework, API, or platform, I prefer to 
 
 This is not loyalty to ugliness. It is respect for provenance and mechanism. The shortest path from failure to understanding is often the original message from the system that failed.
 
+**The best infrastructure recedes without disappearing.**
+
+Ordinary use should not require constant attention to the machinery. The system should become quiet enough for people to focus on the work and one another. But quiet is not the same as hidden: mechanism, rationale, state, and responsibility must remain inspectable when judgment, learning, maintenance, or repair requires them.
+
 **The safe path should be the easy path.**
 
 People should not need expert knowledge before they can begin safely. Humane infrastructure should carry the accidental complexity of ordinary use so attention can remain on the work and one another.

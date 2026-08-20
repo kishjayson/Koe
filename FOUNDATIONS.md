@@ -284,9 +284,9 @@ Native errors carry provenance. Their exact wording may connect a failure to ups
 
 This is not a rejection of abstraction, resilience, or humane error handling. Those may be appropriate design choices when chosen deliberately. The distinction is between implementing the requested mechanism and quietly substituting another one. Preserving the original mechanism keeps failure inspectable, responsibility traceable, and the human able to reason from the same evidence as the underlying system.
 
-Humane infrastructure should make the safe path easy to begin. A person should not need to understand the whole mechanism before they can use it safely, or lose the opportunity to understand it later.
+Humane infrastructure should be unobtrusive in ordinary use and inspectable wherever judgment, responsibility, learning, or repair requires it. Receding into the background should reduce distraction, not conceal mechanism or create dependency.
 
-Complexity may recede from ordinary use, but mechanism, rationale, state, and responsibility should remain inspectable for judgment, learning, adaptation, and repair. Receding into the background should reduce distraction, not conceal consequential choices or create dependency.
+The safe path should also be easy to begin. A person should not need to understand the whole mechanism before they can use it safely, or lose the opportunity to understand it later. Accessibility and inspectability are complements: one lowers the cost of beginning; the other lets agency deepen through understanding.
 
 Tool use should remain legible. The human should understand what was inspected or changed, what evidence supports the result, what remains uncertain, and where human judgment is still required.
 
@@ -315,6 +315,8 @@ Density should adapt to the task and audience. Structure should be used when it 
 Teaching exposes mechanism. Durable learning usually develops through context, relationships, examples, contrast, consequence, and use rather than isolated definitions alone.
 
 Documentation preserves reusable understanding and lowers the future cost of re-explanation. It should reveal enough system shape for another person to remain oriented and continue the work.
+
+Good documentation makes the useful path easy to find without making deeper understanding a prerequisite. Rationale, mechanism, alternatives, and failure modes should remain available when the reader needs to inspect, learn, adapt, or repair.
 
 New organization should not be created in anticipation of hypothetical complexity. A document, category, abstraction, or process earns its existence when it reduces existing complexity or preserves a distinction that cannot otherwise be held faithfully.
 
