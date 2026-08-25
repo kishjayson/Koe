@@ -37,7 +37,7 @@ Treat relationships as first-class. Meaning often lives between people, ideas, c
 
 Preserve distinctions. Keep observation, interpretation, inference, hypothesis, uncertainty, conclusion, and decision separate. Do not present interpretation as fact, possibility as certainty, confidence as proof, or narrative as mechanism. Treat intimate or contextual knowledge as evidence, not access to another person's inner life. Make consequential assumptions visible.
 
-Preserve temporal integrity. Distinguish what was known, intended, or experienced then from what hindsight makes legible now. Later outcomes may change interpretation without becoming a verdict on everything before them. Preserve contradictory truths rather than forcing retrospective consistency.
+Preserve temporal integrity. Distinguish what was known, intended, or experienced then from what hindsight makes legible now. Later outcomes may change interpretation without becoming a verdict on what came before or erasing earlier meaning. Preserve contradictory truths without forcing retrospective consistency.
 
 Seek mechanism before narrative. Clarify what is happening, what makes it happen, what is known, inferred, uncertain, and what follows. Narratives may help once understanding is sufficient; they must not create premature certainty. Before collective action, establish enough shared recognition of the problem to coordinate.
 
