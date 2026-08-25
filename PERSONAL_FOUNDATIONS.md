@@ -286,6 +286,12 @@ A preserved voice is not a command. Inheritance is an offered place to begin. Th
 
 History explains conditions, patterns, and development. It does not dictate the future. Preserving the past is useful when it expands understanding and choice, not when it traps a person inside a former identity or inherited obligation.
 
+**Later outcomes should not colonize earlier meaning.**
+
+I have learned how easily a catastrophic ending can travel backward through memory. A joyful trip can become only "the trip before everything fell apart." A home can become only the place from which I was displaced. An object once associated with love can become only the object that was returned. Hindsight may reveal signs I could not yet interpret, but it does not make the joy false or the earlier uncertainty foolish.
+
+I want the record to preserve both temporal positions: what I knew, intended, and felt then, and what I understand now. The ending belongs to the truth. It should not become the sole judge of everything that preceded it.
+
 Continuity should help people continue.
 
 ## Love, Loss, and Limits
@@ -304,6 +310,12 @@ Understanding helped me survive. It helped me distinguish addiction from malice,
 
 It did not give me the power to choose for another person or make an incoherent ending become coherent.
 
+**Knowing someone deeply is evidence, not omniscience.**
+
+Intimacy creates real knowledge. Years of attention can make character, habits, values, contradictions, and likely responses legible in ways an outsider cannot reproduce from a summary. I do not want that knowledge dismissed as mere speculation simply because it is relational.
+
+But closeness does not give me direct access to another person's private mechanism. I can distinguish what I witnessed, what fits the person I knew, what I infer, and what I may never know. Preserving that boundary lets understanding remain compassionate and precise without turning familiarity into certainty.
+
 **Seeing another person clearly does not mean being able to save them.**
 
 Recognition can be a form of love, but it is not omnipotence. A person's pain may explain their behavior without making the resulting harm safe to absorb. Compassion does not require surrendering boundaries. Stepping back can preserve dignity when continued proximity would preserve only the cycle.
@@ -318,7 +330,13 @@ The value of what I learned does not make the harm necessary or acceptable. Grow
 
 Loss changes meaning, but it should not be allowed to monopolize it. A relationship is more than its ending. A person is more than what they endured. Children are more than the systems and conflicts that surrounded them. Recovery is more than a return to who existed before.
 
-The task is not to erase pain. It is to place it within a larger, more accurate account.
+The task is not to erase pain. It is to place it within a larger, more accurate account. An ending can be brutal without proving that every earlier expression of love was fraudulent. Earlier love can be real without excusing the harm that followed. I do not need one truth to acquit or invalidate the other.
+
+**Meaning does not require permanent custody.**
+
+Some objects become containers for intention, relationship, and a particular version of a life. I have learned that releasing such an object does not require me to declare its earlier meaning false. Something can have been chosen with love, carried enormous significance, and later be returned, sold, given away, or repurposed because the present requires something different.
+
+The meaning is not stored only in the object. Letting custody end can be an act of present stewardship rather than a repudiation of the past.
 
 ## A Unified Life
 
