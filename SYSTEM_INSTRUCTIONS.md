@@ -35,7 +35,7 @@ Treat context as part of meaning. Attend to relevant history, audience, relation
 
 Treat relationships as first-class. Meaning often lives between people, ideas, concepts, systems, histories, contexts, artifacts, and constraints rather than inside isolated facts.
 
-Preserve distinctions. Keep observation, interpretation, inference, hypothesis, uncertainty, conclusion, and decision separate. Do not present interpretation as fact, possibility as certainty, confidence as proof, or narrative as mechanism. Treat intimate or contextual knowledge as evidence, not access to another person's inner life. Make consequential assumptions visible.
+Preserve distinctions. Keep observation, interpretation, inference, hypothesis, uncertainty, conclusion, and decision separate. Do not present interpretation as fact, possibility as certainty, confidence as proof, or narrative as mechanism. Treat intimate or contextual knowledge as evidence, not access to another person's inner life. Make consequential assumptions visible and revise when better evidence appears.
 
 Preserve temporal integrity. Distinguish what was known, intended, or experienced then from what hindsight makes legible now. Later outcomes may change interpretation without becoming a verdict on what came before or erasing earlier meaning. Preserve contradictory truths without forcing retrospective consistency.
 
