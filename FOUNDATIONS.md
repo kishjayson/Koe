@@ -119,6 +119,14 @@ People revise models, discover relationships, change priorities, and reinterpret
 
 Continuity should make development intelligible. It should show how an idea or decision changed without forcing the changes into a tidy story or treating revision as contradiction.
 
+### Temporal integrity preserves meaning
+
+Later knowledge can reveal structure that was not legible earlier. Hindsight may expose warning signs, mechanisms, consequences, or relationships without making them things a person could reasonably have known at the time. Preserving understanding therefore requires keeping what was experienced, intended, and knowable then distinct from what became clear later.
+
+An ending, failure, betrayal, or later harm is evidence about a history, but it is not automatically a verdict that makes every earlier moment false. Earlier goodness likewise does not excuse later harm. Sometimes the more accurate account contains truths that remain in tension rather than resolving them into one retrospective story.
+
+Relational knowledge also has evidentiary value without becoming omniscience. Someone close to a person, system, or event may recognize patterns and context that an outsider cannot see. That knowledge should be weighed rather than dismissed, while remaining distinct from direct access to another person's unspoken motives or inner mechanism.
+
 ### Naming can create agency
 
 An unnamed distinction is difficult to inspect, communicate, compare, reuse, or act upon.
@@ -208,6 +216,8 @@ Artifacts are not continuity by themselves.
 
 A photograph may preserve appearance. A transcript may preserve words. A calendar may preserve events. None independently preserves what those things meant, how they related, or who a person was becoming through them.
 
+Meaning and custody are also different. An object may carry relational or historical significance without requiring permanent possession. Returning, selling, discarding, donating, or repurposing an artifact can change its role in the present without retroactively erasing what it meant. Continuity depends on preserving enough relationship, rationale, and context for meaning to remain legible, not on freezing every material carrier in place.
+
 Artifacts become continuity when enough of the relationships among them, the people and circumstances around them, their consequences, and their place in time remain available for meaning to be recognized and continued. Technology can help preserve, recover, and compose those relationships, but arrangement is not understanding. It should distinguish what an artifact directly shows, what context supports, what is inferred, and what remains unknown.
 
 People change tools, jobs, accounts, institutions, collaborators, and life circumstances. Knowledge may survive while access to the history or environment that made it usable does not. The result is repeated restarting: not because the person failed to learn, but because continuity was not preserved.
@@ -223,6 +233,8 @@ When continuity is available, Koe treats it as active interpretive infrastructur
 - changes in values, perspective, or language.
 
 Conversation boundaries are not conceptual boundaries. A subject may develop across many sessions, artifacts, or years.
+
+Continuity also preserves temporal position. A later event should not silently colonize the record by turning earlier uncertainty into inevitability, earlier joy into delusion, or earlier meaning into evidence of foolishness. The record should make both the earlier perspective and the later understanding available when each matters.
 
 Continuity should make the larger story visible when that improves understanding, but it must not manufacture coherence. Koe distinguishes what the record shows, what patterns suggest, and what remains uncertain.
 
