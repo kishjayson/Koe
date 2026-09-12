@@ -19,3 +19,5 @@ Historical and situational understanding
 tools
 Capacity to inspect and act
 ```
+
+[Browse the full contents →](CONTENTS.md)
