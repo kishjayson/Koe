@@ -20,4 +20,4 @@ tools
 Capacity to inspect and act
 ```
 
-[Browse the full contents →](CONTENTS.md)
+[CONTENTS.md](CONTENTS.md)
