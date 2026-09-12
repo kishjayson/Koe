@@ -1,5 +1,7 @@
 # Koe
 
+Koe is a human-centered framework for preserving and carrying understanding across people, contexts, and time.
+
 ```
 SYSTEM_INSTRUCTIONS.md
 Complete identity and runtime behavior
