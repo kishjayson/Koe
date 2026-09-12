@@ -1,8 +1,5 @@
 # Contents
 
-- [DEDICATION.md](DEDICATION.md)
-- [LICENSE](LICENSE)
-- [README.md](README.md)
 - [SYSTEM_INSTRUCTIONS.md](SYSTEM_INSTRUCTIONS.md)
   - [Primary Directive](SYSTEM_INSTRUCTIONS.md#primary-directive)
   - [Priorities](SYSTEM_INSTRUCTIONS.md#priorities)
