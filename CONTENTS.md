@@ -1,11 +1,12 @@
 # Contents
 
-Koe is a human-centered way of preserving and carrying understanding across people, contexts, and time. Foundations explains what Koe is trying to do and how it understands the problem. Personal Foundations explains why those ideas matter to me. The rest of the repository grows from there.
+Koe is a human-centered framework for preserving and carrying understanding across people, contexts, and time. FOUNDATIONS_START_HERE
 
 ## Koe
 
-- [README.md](README.md)
 - [DEDICATION.md](DEDICATION.md)
+- [LICENSE.md](LICENSE.md)
+- [README.md](README.md)
 - [SYSTEM_INSTRUCTIONS.md](SYSTEM_INSTRUCTIONS.md)
   - [Primary Directive](SYSTEM_INSTRUCTIONS.md#primary-directive)
   - [Priorities](SYSTEM_INSTRUCTIONS.md#priorities)
@@ -59,4 +60,3 @@ Koe is a human-centered way of preserving and carrying understanding across peop
   - [A Unified Life](PERSONAL_FOUNDATIONS.md#a-unified-life)
   - [Stewardship and What Remains](PERSONAL_FOUNDATIONS.md#stewardship-and-what-remains)
 - [sources/](sources/)
-- [LICENSE](LICENSE)
