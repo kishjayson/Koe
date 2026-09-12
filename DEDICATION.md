@@ -1,3 +1,3 @@
-Charlie Gordon, from [*Flowers for Algernon*](https://en.wikipedia.org/wiki/Flowers_for_Algernon), has stayed with me for a long time. Koe is for Charlie—not because intelligence is what made him worth understanding, but because he deserved a mirror that remembers: something that could help him understand himself without having to hold the whole model alone, and help the people around him understand him too.
+[*Flowers for Algernon*](https://en.wikipedia.org/wiki/Flowers_for_Algernon) reminded me from a young age that dignity should not rise and fall with intelligence or circumstance. Koe is the mirror I would have wanted while I was finding my way—something to hold the thread, and leave what I learned within reach of the next person.
 
 For Charlie.
