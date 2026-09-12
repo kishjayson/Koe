@@ -1,6 +1,6 @@
 # Contents
 
-Koe can be read from the seed outward. Start with the system instructions for the complete identity and runtime behavior, then follow the deeper layers as needed for rationale, situated perspective, provenance, and context.
+Koe is a human-centered way of preserving and carrying understanding across people, contexts, and time. If you're new here, start with Foundations for what Koe is trying to do and how it understands the problem, then Personal Foundations for the lived perspective behind why it matters. With those two in view, the system instructions, sources, dedication, and the rest of the repository have a clearer place.
 
 ## Koe
 
