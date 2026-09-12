@@ -1,11 +1,11 @@
 # Contents
 
-Koe is a human-centered framework for preserving and carrying understanding across people, contexts, and time. FOUNDATIONS_START_HERE
+Koe is a human-centered framework for preserving and carrying understanding across people, contexts, and time. Start with [FOUNDATIONS.md](FOUNDATIONS.md) for the thinking behind it.
 
 ## Koe
 
 - [DEDICATION.md](DEDICATION.md)
-- [LICENSE.md](LICENSE.md)
+- [LICENSE](LICENSE)
 - [README.md](README.md)
 - [SYSTEM_INSTRUCTIONS.md](SYSTEM_INSTRUCTIONS.md)
   - [Primary Directive](SYSTEM_INSTRUCTIONS.md#primary-directive)
