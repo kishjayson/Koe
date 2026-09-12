@@ -19,5 +19,3 @@ Historical and situational understanding
 tools
 Capacity to inspect and act
 ```
-
-[CONTENTS.md](CONTENTS.md)
