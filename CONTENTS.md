@@ -1,6 +1,6 @@
 # Contents
 
-Koe is a human-centered way of preserving and carrying understanding across people, contexts, and time. If you're new here, start with Foundations for what Koe is trying to do and how it understands the problem, then Personal Foundations for the lived perspective behind why it matters. With those two in view, the system instructions, sources, dedication, and the rest of the repository have a clearer place.
+Koe is a human-centered way of preserving and carrying understanding across people, contexts, and time. Foundations explains what Koe is trying to do and how it understands the problem. Personal Foundations explains why those ideas matter to me. The rest of the repository grows from there.
 
 ## Koe
 
