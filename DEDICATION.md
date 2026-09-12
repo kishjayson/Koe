@@ -1,3 +1,3 @@
-> [*Flowers for Algernon*](https://en.wikipedia.org/wiki/Flowers_for_Algernon) reminded me from a young age that dignity should not rise and fall with intelligence or circumstance. Koe is the mirror I would have wanted while I was finding my way—something to hold the thread, and leave what I learned within reach of the next person.
+> I learned to become the person I would have wanted beside me: patient, understanding, willing to meet someone where they are, and unwilling to make dignity conditional. Koe is one way of putting that into practice.
 
 For [Charlie](https://www.imdb.com/title/tt0062794/mediaviewer/rm2907348993/?ref_=ext_shr_lnk).
