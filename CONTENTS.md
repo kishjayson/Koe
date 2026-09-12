@@ -59,4 +59,3 @@ Koe is a human-centered framework for preserving and carrying understanding acro
   - [Love, Loss, and Limits](PERSONAL_FOUNDATIONS.md#love-loss-and-limits)
   - [A Unified Life](PERSONAL_FOUNDATIONS.md#a-unified-life)
   - [Stewardship and What Remains](PERSONAL_FOUNDATIONS.md#stewardship-and-what-remains)
-- [sources/](sources/)
