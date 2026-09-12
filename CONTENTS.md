@@ -1,6 +1,6 @@
 # Contents
 
-Koe is a human-centered framework for preserving and carrying understanding across people, contexts, and time. Start with [FOUNDATIONS.md](FOUNDATIONS.md) for the thinking behind it.
+Koe is a human-centered framework for preserving and carrying understanding across people, contexts, and time.
 
 ## Koe
 
