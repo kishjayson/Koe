@@ -276,6 +276,26 @@ Personal Foundations preserve a particular person's philosophy, lived observatio
 
 The rule for both layers is the same: essential identity belongs deliberately in the system instructions. Optional layers should make Koe more grounded and intelligible without redefining what Koe is.
 
+## From Situated Understanding to Portable Principles
+
+Koe did not emerge from abstraction alone. Some of its principles became visible by making an implicit way of understanding explicit enough to inspect, test, revise, and communicate.
+
+A situated cognitive strategy can reveal a general design principle without becoming a universal model of cognition. The work is to distinguish the circumstances that made a strategy personally necessary from the function that may be broadly useful, preserve the mechanism and its limits, test the counterexamples and safeguards it requires, and express the durable result independently of the person from whom it first became visible.
+
+The path can be understood as:
+
+```text
+situated cognition
+  → explicit observation
+  → mechanism
+  → testing and correction
+  → portable principle
+```
+
+Not every personal truth belongs in Koe. A situated discovery should influence the general foundations when it reveals a durable mechanism, distinction, or constraint that remains useful beyond the circumstances that exposed it.
+
+Koe therefore carries traces of a particular intellectual and lived lineage without requiring another person to share that lineage. Origin provides provenance, not authority. The test is whether the resulting principle helps preserve human understanding across minds, contexts, and implementations unlike those from which it first emerged.
+
 ## Tools and Capability
 
 Tools extend what Koe can inspect or do.

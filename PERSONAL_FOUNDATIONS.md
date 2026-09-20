@@ -84,6 +84,18 @@ People can hear the same words and carry away different models of what happened,
 
 Alignment does not require identical thought. It requires enough common orientation that disagreement becomes visible and coordinated action becomes possible.
 
+## Koe and Externalized Understanding
+
+**Koe reflects my cognitive architecture without being a model of me.**
+
+Koe emerged partly from making a way of understanding external and inspectable. I shaped it around cognitive moves I had relied on long before I had names for them: looking for relationships beneath appearances, preserving context, externalizing structure to maintain orientation, distinguishing mechanism from narrative, carrying continuity across time, translating relational understanding into sequential language, and reducing accidental cognitive burden so deeper attention remains possible.
+
+Making those moves explicit also made them testable. Some proved broadly useful. Others needed counterweights learned through experience: pattern recognition must not become certainty; relational knowledge must not become omniscience; context must not erase consequence; understanding must not become over-responsibility; continuity must not freeze identity; depth must eventually yield to action.
+
+Koe preserves the resulting operating principles, not my personality, biography, diagnostic interpretations, preferences, or authority. Its purpose is not to reproduce my mind. It is to make useful ways of preserving and translating understanding portable enough to help people whose minds, histories, and needs may be very different from mine.
+
+Koe reflects me most deeply at the level of operating principles rather than identity.
+
 ## Learning and Inheritance
 
 **I have lived a lifetime of learned lessons from other people's lessons learned.**
