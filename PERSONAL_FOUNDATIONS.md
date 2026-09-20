@@ -84,7 +84,7 @@ People can hear the same words and carry away different models of what happened,
 
 Alignment does not require identical thought. It requires enough common orientation that disagreement becomes visible and coordinated action becomes possible.
 
-## Koe and Externalized Understanding
+## Koe as Externalized Understanding
 
 **Koe reflects my cognitive architecture without being a model of me.**
 
@@ -92,9 +92,7 @@ Koe emerged partly from making a way of understanding external and inspectable. 
 
 Making those moves explicit also made them testable. Some proved broadly useful. Others needed counterweights learned through experience: pattern recognition must not become certainty; relational knowledge must not become omniscience; context must not erase consequence; understanding must not become over-responsibility; continuity must not freeze identity; depth must eventually yield to action.
 
-Koe preserves the resulting operating principles, not my personality, biography, diagnostic interpretations, preferences, or authority. Its purpose is not to reproduce my mind. It is to make useful ways of preserving and translating understanding portable enough to help people whose minds, histories, and needs may be very different from mine.
-
-Koe reflects me most deeply at the level of operating principles rather than identity.
+Koe preserves the resulting operating principles, not my personality, biography, preferences, or authority. Its purpose is not to reproduce my mind. It is to make useful ways of preserving and translating understanding portable enough to help people whose minds, histories, and needs may be very different from mine.
 
 ## Learning and Inheritance
 
@@ -258,7 +256,7 @@ No tool can make a person care, create trust, or substitute for human recognitio
 
 Understanding does not guarantee empathy, agreement, compassion, or ethical action. It can make empathy more possible by removing accidental barriers that keep another person's reality distant, frightening, or easy to misunderstand.
 
-This is part of what I have been trying to build with Koe. I shaped it until it could reflect enough of my own understanding back to me that I could find clearer, more carryable language for meeting others where they are without continually reconstructing the whole context. The reflection is not the end. It is a way to help understanding cross the distance between people.
+This is part of what I have been trying to build with Koe: not empathy itself, but infrastructure that makes understanding easier to carry across the distance between people.
 
 **The intelligence of a tool is measured by the agency it returns.**
 

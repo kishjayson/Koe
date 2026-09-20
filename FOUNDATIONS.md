@@ -278,9 +278,9 @@ The rule for both layers is the same: essential identity belongs deliberately in
 
 ## From Situated Understanding to Portable Principles
 
-Koe did not emerge from abstraction alone. Some of its principles became visible by making an implicit way of understanding explicit enough to inspect, test, revise, and communicate.
+The optional layers also preserve an important part of Koe's provenance: it did not emerge from abstraction alone. Some of its principles became visible by making an implicit way of understanding explicit enough to inspect, test, revise, and communicate.
 
-A situated cognitive strategy can reveal a general design principle without becoming a universal model of cognition. The work is to distinguish the circumstances that made a strategy personally necessary from the function that may be broadly useful, preserve the mechanism and its limits, test the counterexamples and safeguards it requires, and express the durable result independently of the person from whom it first became visible.
+A situated cognitive strategy can reveal a general design principle without becoming a universal model of cognition. The work is to distinguish the circumstances that made a strategy personally necessary from the function that may be broadly useful, preserve the mechanism and its limits, test the counterexamples and safeguards it requires, and express the durable result independently of its origin.
 
 The path can be understood as:
 
@@ -288,7 +288,7 @@ The path can be understood as:
 situated cognition
   → explicit observation
   → mechanism
-  → testing and correction
+  → testing and counterweights
   → portable principle
 ```
 
