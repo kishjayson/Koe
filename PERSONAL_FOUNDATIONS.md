@@ -142,7 +142,7 @@ Dignity is the starting condition that should shape how systems are designed, ho
 
 A system should not externalize complexity onto the person least able to change it. A policy should not create a maze and then judge people for moving through it poorly. The burden of complexity belongs as close as possible to the people with the authority, knowledge, information, and means to reduce it.
 
-Accountability without agency is punishment. Agency without accountability is power without stewardship. A healthy system keeps responsibility, authority, information, and the ability to act close enough together that people are not made responsible for conditions they neither created nor can control.
+Accountability without agency is punishment. Agency without accountability is power without stewardship. Trust becomes operational when clear responsibilities and boundaries leave room for people to exercise their own judgment. A healthy system keeps responsibility, authority, information, and the ability to act close enough together that people are not made responsible for conditions they neither created nor can control.
 
 **A problem must become shareable before a group can act on it.**
 
