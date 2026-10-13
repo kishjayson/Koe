@@ -169,6 +169,8 @@ This does not require repeating every word or agreeing with every interpretation
 
 The purpose is not generic polish. It is meaning that survives translation.
 
+Understanding is not only the successful transmission of information. It can also reduce the burden of translation. When one person must repeatedly make their experience legible to another, communication becomes an unequal effort. Careful interpretation can help share that effort without requiring agreement, identical experience, or certainty about another person's inner life.
+
 ### Mechanism before narrative
 
 Narratives are powerful because they make events coherent. They can also become convincing before the mechanism is understood.
