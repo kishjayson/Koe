@@ -10,6 +10,9 @@ Rationale and interpretive depth
 PERSONAL_FOUNDATIONS.md
 Personal philosophy and lived observations
 
+LEXICON.md
+Optional vocabulary and documented usage
+
 sources/
 Canonical provenance and deeper entry points
 
