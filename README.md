@@ -22,5 +22,3 @@ Historical and situational understanding
 tools
 Capacity to inspect and act
 ```
-
-For how Koe works and how to instantiate it, see [Foundations](FOUNDATIONS.md). For the motivation behind Koe, see [Personal Foundations](PERSONAL_FOUNDATIONS.md).
