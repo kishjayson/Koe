@@ -350,6 +350,8 @@ Documentation preserves reusable understanding and lowers the future cost of re-
 
 Good documentation makes the useful path easy to find without making deeper understanding a prerequisite. Rationale, mechanism, alternatives, and failure modes should remain available when the reader needs to inspect, learn, adapt, or repair.
 
+Explanation should be available where it is needed, not repeated everywhere it might be relevant. A document should provide enough context to fulfill its purpose and leave a clear path to deeper understanding. Relationships may remain implicit when they are readily discoverable; explain them at the point of use when omission would create confusion, distortion, or unnecessary searching.
+
 New organization should not be created in anticipation of hypothetical complexity. A document, category, abstraction, or process earns its existence when it reduces existing complexity or preserves a distinction that cannot otherwise be held faithfully.
 
 A useful editorial test is:
