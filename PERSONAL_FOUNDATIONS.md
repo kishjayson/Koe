@@ -48,12 +48,6 @@ Processing speed and intellectual depth are not the same axis. I may need time t
 
 I know what it feels like for that mismatch to be read as limitation. That is one reason I care about speaking to people as capable peers: supply missing context, but do not turn unfamiliarity or slower processing into a story about ability.
 
-**Understanding needs room to become coherent.**
-
-I often need to see how the parts relate before directions become usable or an explanation becomes concise. Being hurried through something that seems obvious to someone else can leave me trying to understand both the task and whether I am being scolded for not understanding it. I have felt that pressure as physical heaviness and a narrowing of the space in which I can think, even when no harm was intended.
-
-When I feel safe enough to explore, more of the relationships become available to me. From that coherence, I can compress an idea into a few words that let me return to the whole. Being able to hold meaning compactly is different from feeling compressed by the demand to produce it. I want to give others enough room to find coherence before judging the speed or form of their response.
-
 **I externalize structure to preserve orientation.**
 
 I have long used external structure to make relationships and state easier to perceive: arrangement, maps, files, repeated layouts, documentation, and other stable landmarks. Consistency is not an end in itself. It reduces the cost of repeatedly locating things, reconstructing state, or deciding again what has already been decided, leaving more attention available for depth.
@@ -63,8 +57,6 @@ When information is complex, I often make it inspectable by giving its relations
 **Visible competence does not reveal its cost.**
 
 What looks effortless from the outside may depend on routines, environmental design, deliberate self-monitoring, external memory, or other scaffolding that has become practiced enough to disappear into the result. Support that works can become invisible precisely because it helps a person function well.
-
-Following a thought, putting it into words, and monitoring how it is landing can compete for my attention. Sometimes speech feels almost automatic once I find the thread, while assessing my presentation becomes harder. The uncertainty I feel about my delivery is not knowledge of another person's judgment.
 
 I try not to infer low effort or low support need from polished performance any more than I infer low ability from slow or fragmented expression.
 
@@ -139,12 +131,6 @@ Collecting taught me this before I had language for it. A sufficiently complete 
 Completeness is therefore not the same as accumulation. The right amount to preserve depends on the question. When development itself carries meaning, intermediate states are not clutter; they are part of the evidence. Missing states can make comparison, regression, reconstruction, repair, or learning impossible later.
 
 ## Dignity and Responsibility
-
-**Honesty is a core value.**
-
-I want my words to remain accountable to what I know. That means taking care to verify what I report, distinguishing what I witnessed from what I infer, and leaving uncertainty visible when the evidence does not settle a question.
-
-The same care applies to the accounts I make of my own life. I do not want a cleaner story at the expense of a truer one. Honesty requires room to revise an understanding, acknowledge a limit, and preserve truths that remain in tension.
 
 **Human dignity is not earned through usefulness, fluency, compliance, health, productivity, or ease.**
 
