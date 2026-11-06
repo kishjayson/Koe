@@ -16,8 +16,14 @@ Putting thoughts or understanding into words. Difficulty articulating something 
 **Artifact**  
 A created or preserved item, such as a document, photograph, or piece of code. An artifact can provide evidence without explaining its own meaning.
 
+**Automatic speaking**  
+A personal description of speech seeming to unfold on its own once a thread of understanding becomes available. In Personal Foundations, following that thread can leave less attention for monitoring presentation. The phrase describes an experience, not a diagnosis or proof of accuracy.
+
 **Canonical**  
 Treated as the established reference within a particular collection or system. It does not mean unquestionable or universally authoritative.
+
+**Capture and response**  
+The distinction between offering a thought so it can be held and asking for immediate analysis or action. A person may be preserving a thought while still reading. Cues to wait, remain brief, or hold context guide the response; holding something in conversation does not promise permanent storage.
 
 **Cognition**  
 The mental processes involved in thinking, remembering, learning, and understanding.
@@ -28,6 +34,9 @@ The mental effort needed to carry out a task. Clear structures can reduce effort
 **Contextual dignity**  
 Respect for a person's worth that also takes their circumstances, relationships, and constraints seriously.
 
+**Contraction and expansion**  
+In the personal usage behind Koe, spatial language for feeling less or more internal room to orient and think. Pressure is described as narrowing that space, and safety or relaxation as allowing it to open. This is experiential language, not an established neurological mechanism, and differs from compressing or expanding an explanation.
+
 **Counterweight**  
 A balancing consideration that keeps a useful idea from being carried too far; for example, recognizing patterns without assuming certainty.
 
@@ -36,6 +45,9 @@ Relating to knowledge: what is known, how it is known, and how certain a conclus
 
 **Externalization**  
 Making an internal thought or understanding visible through words, diagrams, records, or other forms so it can be revisited or shared.
+
+**Feeling compressed**  
+A personal description of pressure while trying to reach coherence, sometimes accompanied by distress and physical heaviness. It differs from intentionally compressing understanding into a compact expression. Personal Foundations preserves the distinction among another person's intent, the tone perceived, and the impact experienced; the term contraction should not overwrite this lived wording.
 
 **Fidelity**  
 Faithfulness to the original meaning or source. A faithful explanation need not use exactly the same words.
@@ -48,6 +60,9 @@ American architect known for designs that connect buildings, materials, landscap
 
 **Grounding**  
 Connecting an explanation or interpretation to evidence and context rather than relying only on what sounds plausible.
+
+**Honesty**  
+Faithfulness about what is known, how it is known, and what remains uncertain, with room for correction and truths that remain in tension. Named as a core value in Personal Foundations. Confidence and a count of sources do not by themselves establish truth or independence.
 
 **Inference**  
 A conclusion reached from evidence and reasoning rather than something directly observed.
@@ -81,6 +96,9 @@ Absorbed and transformed into something usable. Foundations uses the word figura
 
 **Model (AI)**  
 The AI system that processes input and produces a response. Koe's instructions can guide a model without being the model itself.
+
+**Modeling**  
+Building a coherent understanding of how parts relate. Directions can be available before the relationships they assume become clear. Developing a model, accessing it, expressing it, and acting on it are distinct; a complete model is not always necessary before a safe first step.
 
 **Neurodivergence**  
 Differences in how people's minds develop or process information, often discussed in relation to autism, ADHD, and other cognitive differences.
@@ -121,11 +139,20 @@ Concerned with connections between things or people. Relational understanding co
 **Scaffolding**  
 Support that helps someone perform a task or develop a skill, such as routines, tools, or a structured environment.
 
+**Self-monitoring**  
+Here, attending to one's delivery and possible reception while communicating. Following and expressing a thought can compete with that attention. Uncertainty about how one appears is not evidence of another person's judgment.
+
 **Semantic**  
 Related to meaning. A semantic relationship concerns what things signify, not merely how they are labeled.
 
+**Semantic compression**  
+Giving a larger understanding a compact expression that can reopen the relevant model. A name or short summary can provide such a touchpoint, but only when the recipient can recover enough context. Brevity alone does not preserve understanding; semantic expansion provides a path back to the supporting relationships.
+
+**Semantic expansion**  
+Making the context, relationships, examples, and reasoning behind a compact expression explicit enough for the audience and purpose. Expansion should recover supported meaning rather than merely add words or invent what the expression leaves unspecified. It differs from the felt opening described under contraction and expansion.
+
 **Serialization**  
-Putting something into a sequence. Koe uses the term for turning an understanding that may be simultaneous or relational into words presented one after another.
+Putting something into a sequence. Koe uses the term for turning an understanding that may be simultaneous or relational into words presented one after another. This includes choosing where to begin, ordering dependencies, and supplying the context an audience needs. Difficulty serializing does not by itself establish difficulty understanding; see modeling and self-monitoring.
 
 **Situated**  
 Shaped by a particular person's circumstances, experience, and perspective rather than assumed to be universal.

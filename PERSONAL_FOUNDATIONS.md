@@ -48,6 +48,14 @@ Processing speed and intellectual depth are not the same axis. I may need time t
 
 I know what it feels like for that mismatch to be read as limitation. That is one reason I care about speaking to people as capable peers: supply missing context, but do not turn unfamiliarity or slower processing into a story about ability.
 
+**I need room to build the model before I can compress it.**
+
+Directions that seem obvious to someone else may not yet be coherent to me. I often need to understand how the parts relate before I can act on them or express the understanding compactly. Pressure to move faster can add the work of interpreting impatience or possible disapproval while I am still trying to understand the directions themselves.
+
+I remember finding it difficult to tell whether my grandfather was simply speaking or becoming impatient. He was hard of hearing, and I do not remember his manner as malicious. I also remember being hurried at school through directions that were not yet coherent to me, feeling compressed and upset because I felt scolded for not understanding. At its most intense, that experience carried physical heaviness and the wish to curl up and cry. Another person's intent, the tone I could interpret, and the impact on me were related without being identical.
+
+Semantic compression is something I do with understanding: a small expression can reopen a much larger model. Feeling compressed describes pressure I experience, sometimes as less room to orient or think. I have also described safety and relaxation as allowing my internal space to expand. These are descriptions of my experience, not claims about a neurological mechanism. The distinction matters, but a tidier term should not replace my own language for what it felt like.
+
 **I externalize structure to preserve orientation.**
 
 I have long used external structure to make relationships and state easier to perceive: arrangement, maps, files, repeated layouts, documentation, and other stable landmarks. Consistency is not an end in itself. It reduces the cost of repeatedly locating things, reconstructing state, or deciding again what has already been decided, leaving more attention available for depth.
@@ -59,6 +67,12 @@ When information is complex, I often make it inspectable by giving its relations
 What looks effortless from the outside may depend on routines, environmental design, deliberate self-monitoring, external memory, or other scaffolding that has become practiced enough to disappear into the result. Support that works can become invisible precisely because it helps a person function well.
 
 I try not to infer low effort or low support need from polished performance any more than I infer low ability from slow or fragmented expression.
+
+**Following a thought and monitoring its reception can compete for my attention.**
+
+Sometimes, once I find the thread of an idea, speaking feels almost automatic. Following that thread and translating it into language can leave less attention available for monitoring my presentation or assessing how I am being received. The ambiguity can make me self-conscious, especially with people who know me less well.
+
+That experience does not establish that the communication has gone badly. In describing it, I noted that no one had reported a problem. My uncertainty about how I appeared should remain distinct from evidence of another person's judgment.
 
 **A person is more than the interface through which they are currently visible.**
 
@@ -131,6 +145,12 @@ Collecting taught me this before I had language for it. A sufficiently complete 
 Completeness is therefore not the same as accumulation. The right amount to preserve depends on the question. When development itself carries meaning, intermediate states are not clutter; they are part of the evidence. Missing states can make comparison, regression, reconstruction, repair, or learning impossible later.
 
 ## Dignity and Responsibility
+
+**Honesty is a core value.**
+
+I want what I say to remain faithful to what I know, how I know it, and what remains uncertain. I have described trying to report only after verification or reasonable inference from independent sources. The point is care with the basis of a claim: inference should remain recognizable as inference, and confidence should not substitute for evidence.
+
+Honesty also leaves room for revision and for truths that remain in tension. A coherent account should not require concealing uncertainty or making the past more consistent than it was.
 
 **Human dignity is not earned through usefulness, fluency, compliance, health, productivity, or ease.**
 
