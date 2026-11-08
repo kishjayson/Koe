@@ -55,6 +55,9 @@ Faithfulness to the original meaning or source. A faithful explanation need not 
 **First principles**  
 Basic truths or assumptions used to examine a problem from its foundations rather than accepting familiar solutions without question.
 
+**Flowers for Algernon**  
+A science-fiction story by Daniel Keyes (1959; expanded into a novel in 1966) about Charlie Gordon, whose intelligence is temporarily increased through an experiment first performed on a mouse named Algernon. Told through Charlie's changing progress reports, it explores intelligence, identity, dignity, and how people are judged by their abilities.
+
 **Frank Lloyd Wright**  
 American architect known for designs that connect buildings, materials, landscape, and human use. Personal Foundations cites him as an influence on thinking about a coherent whole.
 
@@ -84,6 +87,9 @@ The history of how a person, idea, or design developed through earlier influence
 
 **Locus**  
 A place or center of activity or authority. *Locus of agency* means where the ability to make decisions and act ultimately rests.
+
+**Macintosh Plus**  
+An all-in-one personal computer introduced by Apple in 1986. It retained the original Macintosh's compact design while expanding its capabilities and supporting successive generations of Macintosh system software.
 
 **Masking**  
 Concealing or adjusting aspects of one's behavior to meet social expectations. It can require effort that others do not see.
