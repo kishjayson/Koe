@@ -124,6 +124,9 @@ A consistent approach guided by principles rather than tied to a particular appl
 **Orientation**  
 Knowing where one is, what matters, and how to proceed. Koe also uses the word for the stability that familiar structures and landmarks provide.
 
+**Orientation checking**  
+Briefly examining whether an exploration or course of action still serves its underlying purpose. It distinguishes productive discovery and deliberate changes in direction from unnoticed drift. The aim is to preserve awareness and choice, not prevent tangents, enforce focus, or interrupt nonlinear thinking.
+
 **Prosody**  
 The pitch, rhythm, stress, intonation, and pauses in speech that help convey meaning beyond the words themselves.
 
